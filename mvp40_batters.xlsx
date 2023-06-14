@@ -1,0 +1,41 @@
+﻿"Player Name","Runs","RBI","Salary","Team","playerID","weight","height","bats","throws","Season","League","teamID","Franchise","G","AB","H","2B","3B","HR","SB","BB","SO","IBB","HBP","SH","SF","PA"
+"Ryan Howard",104,149,355000,"Philadelphia Phillies","howarry01",250,76,"L","L",2006,"NL","PHI","Philadelphia Phillies",159,581,182,25,1,58,0,108,181,37,9,0,6,741
+"Carlos Gonzalez",111,117,406000,"Colorado Rockies","gonzaca01",220,73,"L","L",2010,"NL","COL","Colorado Rockies",145,587,197,34,9,34,26,40,135,8,2,0,7,644
+"Ryan Zimmerman",84,110,327000,"Washington Nationals","zimmery01",215,75,"R","R",2006,"NL","WAS","Washington Nationals",157,614,176,47,3,20,11,61,120,7,2,1,4,689
+"Jeff Francoeur",83,103,384500,"Atlanta Braves","francje02",225,76,"R","R",2006,"NL","ATL","Atlanta Braves",162,651,169,24,6,29,1,23,132,6,9,0,3,692
+"Troy Tulowitzki",104,99,381000,"Colorado Rockies","tulowtr01",205,75,"R","R",2007,"NL","COL","Colorado Rockies",155,609,177,33,5,24,7,57,130,3,9,5,2,685
+"Mark Reynolds",87,97,396500,"Arizona Diamondbacks","reynoma01",220,74,"R","R",2008,"NL","ARI","Arizona Diamondbacks",152,539,129,28,3,28,11,64,204,0,3,1,6,613
+"Brian McCann",61,93,333500,"Atlanta Braves","mccanbr01",225,75,"L","R",2006,"NL","ATL","Atlanta Braves",130,442,147,34,0,24,2,41,54,8,3,0,6,500
+"Dan Uggla",105,90,327000,"Florida Marlins","ugglada01",210,71,"R","R",2006,"NL","FLO","Florida Marlins",154,611,172,26,7,27,6,48,123,1,9,7,8,684
+"Pablo Sandoval",79,90,401750,"San Francisco Giants","sandopa01",268,71,"B","R",2009,"NL","SFN","San Francisco Giants",153,572,189,44,5,25,5,52,83,13,4,0,5,646
+"Russell Martin",87,87,387500,"Los Angeles Dodgers","martiru01",205,70,"R","R",2007,"NL","LAN","Los Angeles Dodgers",151,540,158,32,3,19,21,67,89,1,7,0,6,621
+"Geovany Soto",66,86,401000,"Chicago Cubs","sotoge01",225,73,"R","R",2008,"NL","CHN","Chicago Cubs",141,494,141,35,2,23,0,62,121,6,2,0,5,569
+"Gaby Sanchez",72,85,401000,"Florida Marlins","sanchga01",235,73,"R","R",2010,"NL","FLO","Florida Marlins",151,572,156,37,3,19,5,57,101,2,5,3,6,645
+"Joey Votto",69,84,390000,"Cincinnati Reds","vottojo01",220,74,"L","R",2008,"NL","CIN","Cincinnati Reds",151,526,156,32,3,24,7,59,102,9,2,0,2,598
+"Hunter Pence",78,83,396000,"Houston Astros","pencehu01",230,76,"R","R",2008,"NL","HOU","Houston Astros",157,595,160,34,4,25,11,40,124,2,4,0,3,644
+"Melvin Upton",86,82,386900,"Tampa Bay Devil Rays","uptonbj01",185,75,"R","R",2007,"AL","TBA","Tampa Bay Rays",129,474,142,25,1,24,22,65,154,4,4,1,4,552
+"Prince Fielder",82,81,329500,"Milwaukee Brewers","fieldpr01",275,71,"L","R",2006,"NL","MIL","Milwaukee Brewers",157,569,154,35,1,28,7,59,125,5,12,0,8,653
+"Jose Lopez",78,79,335000,"Seattle Mariners","lopezjo01",205,72,"R","R",2006,"AL","SEA","Seattle Mariners",151,603,170,28,8,10,5,26,80,1,9,12,5,656
+"Conor Jackson",75,79,328000,"Arizona Diamondbacks","jacksco01",215,74,"R","R",2006,"NL","ARI","Arizona Diamondbacks",140,485,141,26,1,15,1,54,73,2,9,1,7,558
+"Robinson Cano",62,78,381000,"New York Yankees","canoro01",210,72,"L","R",2006,"AL","NYA","New York Yankees",122,482,165,41,1,15,5,18,54,3,2,1,5,511
+"Drew Stubbs",91,77,400000,"Cincinnati Reds","stubbdr01",205,76,"R","R",2010,"NL","CIN","Cincinnati Reds",150,514,131,19,6,22,30,55,168,2,5,3,6,585
+"Mike Jacobs",54,77,327000,"Florida Marlins","jacobmi02",210,75,"L","R",2006,"NL","FLO","Florida Marlins",136,469,123,37,1,20,3,45,105,2,1,0,5,522
+"David Murphy",64,74,393000,"Texas Rangers","murphda07",210,75,"L","L",2008,"AL","TEX","Texas Rangers",108,415,114,28,3,15,7,31,70,3,0,2,6,457
+"Josh Willingham",62,74,327000,"Florida Marlins","willijo03",230,74,"R","R",2006,"NL","FLO","Florida Marlins",142,502,139,28,2,26,2,54,109,2,11,0,6,575
+"Kevin Kouzmanoff",57,74,380800,"San Diego Padres","kouzmke01",210,73,"R","R",2007,"NL","SDN","San Diego Padres",145,484,133,30,2,18,1,32,94,2,10,2,6,536
+"Jason Heyward",83,72,400000,"Atlanta Braves","heywaja01",240,77,"L","L",2010,"NL","ATL","Atlanta Braves",142,520,144,29,5,18,11,91,128,2,10,0,2,625
+"Edwin Encarnacion",60,72,332500,"Cincinnati Reds","encared01",230,73,"R","R",2006,"NL","CIN","Cincinnati Reds",117,406,112,33,1,15,6,41,78,3,13,0,3,466
+"Ian Stewart",74,70,404000,"Colorado Rockies","stewaia01",225,75,"L","R",2009,"NL","COL","Colorado Rockies",147,425,97,19,3,25,7,56,138,3,5,0,5,494
+"Chris Duncan",51,70,400000,"St. Louis Cardinals","duncach01",210,77,"L","R",2007,"NL","SLN","St. Louis Cardinals",127,375,97,20,0,21,2,55,123,3,1,0,1,435
+"Kelly Johnson",91,68,380000,"Atlanta Braves","johnske05",200,73,"L","R",2007,"NL","ATL","Atlanta Braves",147,521,144,26,10,16,9,79,117,3,4,2,2,611
+"Curtis Granderson",90,68,335000,"Detroit Tigers","grandcu01",200,73,"L","R",2006,"AL","DET","Detroit Tigers",159,596,155,31,9,19,8,66,174,0,4,7,6,679
+"Shin-Soo Choo",68,66,390400,"Cleveland Indians","choosh01",210,71,"L","L",2008,"AL","CLE","Cleveland Indians",94,317,98,28,3,14,4,44,78,4,5,0,4,374
+"Casey McGehee",58,66,400000,"Milwaukee Brewers","mcgehca01",220,73,"R","R",2009,"NL","MIL","Milwaukee Brewers",116,355,107,20,1,16,0,34,67,2,1,0,4,396
+"Ian Desmond",59,65,400000,"Washington Nationals","desmoia01",215,75,"R","R",2010,"NL","WAS","Washington Nationals",154,525,141,27,4,10,17,28,109,3,5,9,7,577
+"Andre Ethier",50,64,387500,"Los Angeles Dodgers","ethiean01",210,74,"L","L",2007,"NL","LAN","Los Angeles Dodgers",153,447,127,32,2,13,0,46,68,12,4,0,8,517
+"Daniel Murphy",60,63,401000,"New York Mets","murphda08",221,73,"L","R",2009,"NL","NYN","New York Mets",155,508,135,38,4,12,4,38,69,4,0,4,6,560
+"Nick Markakis",72,62,327000,"Baltimore Orioles","markani01",210,73,"L","L",2006,"AL","BAL","Baltimore Orioles",147,491,143,25,2,16,2,43,72,3,3,3,2,545
+"Matt Murton",70,62,337000,"Chicago Cubs","murtoma01",220,73,"R","R",2006,"NL","CHN","Chicago Cubs",144,455,135,22,3,13,5,45,62,1,5,1,2,509
+"Ryan Garko",62,61,383100,"Cleveland Indians","garkory01",225,74,"R","R",2007,"AL","CLE","Cleveland Indians",138,484,140,29,1,21,0,34,94,1,20,0,3,542
+"Yunel Escobar",71,60,402500,"Atlanta Braves","escobyu01",215,74,"R","R",2008,"NL","ATL","Atlanta Braves",136,514,148,24,2,10,2,59,62,4,5,7,2,591
+"Marcus Thames",61,60,342000,"Detroit Tigers","thamema01",220,74,"R","R",2006,"AL","DET","Detroit Tigers",110,348,89,20,2,26,1,37,92,0,4,0,1,390
